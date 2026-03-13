@@ -9710,6 +9710,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/17683815506",
       "year": 2026
+    },
+    {
+      "date": "2026-03-12",
+      "hour": 18,
+      "name": "Cooked",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17703056734",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -18488,6 +18497,15 @@
           "distance": 29007.0,
           "elevation_gain": 0.0,
           "moving_time": 3432.0
+        },
+        "2026-03-12": {
+          "activity_ids": [
+            "17703056734"
+          ],
+          "count": 1,
+          "distance": 32519.5,
+          "elevation_gain": 0.0,
+          "moving_time": 4307.0
         }
       },
       "Snowboard": {
@@ -18797,7 +18815,7 @@
       }
     }
   },
-  "generated_at": "2026-03-12T15:45:36.101152+00:00",
+  "generated_at": "2026-03-13T15:32:57.606740+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/88131214",
   "repo": "MattCost/git-sweaty",

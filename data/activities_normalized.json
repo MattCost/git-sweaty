@@ -14025,5 +14025,18 @@
     "start_date_local": "2026-03-11T06:45:31Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-12",
+    "distance": 32519.5,
+    "elevation_gain": 0.0,
+    "id": "17703056734",
+    "moving_time": 4307.0,
+    "name": "Cooked",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-12T18:54:17Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
