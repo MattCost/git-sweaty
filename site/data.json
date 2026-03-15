@@ -9728,6 +9728,24 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/17712797067",
       "year": 2026
+    },
+    {
+      "date": "2026-03-14",
+      "hour": 10,
+      "name": "Found a turkey",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/17721484845",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-14",
+      "hour": 14,
+      "name": "Long ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17723666839",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -18515,6 +18533,15 @@
           "distance": 32519.5,
           "elevation_gain": 0.0,
           "moving_time": 4307.0
+        },
+        "2026-03-14": {
+          "activity_ids": [
+            "17723666839"
+          ],
+          "count": 1,
+          "distance": 42110.4,
+          "elevation_gain": 0.0,
+          "moving_time": 5416.0
         }
       },
       "Snowboard": {
@@ -18683,6 +18710,15 @@
           "distance": 3510.1,
           "elevation_gain": 57.0,
           "moving_time": 3812.0
+        },
+        "2026-03-14": {
+          "activity_ids": [
+            "17721484845"
+          ],
+          "count": 1,
+          "distance": 3444.1,
+          "elevation_gain": 27.0,
+          "moving_time": 4699.0
         }
       },
       "WeightTraining": {
@@ -18833,7 +18869,7 @@
       }
     }
   },
-  "generated_at": "2026-03-14T15:17:28.451488+00:00",
+  "generated_at": "2026-03-15T15:18:34.461992+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/88131214",
   "repo": "MattCost/git-sweaty",
