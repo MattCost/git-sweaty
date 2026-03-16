@@ -14077,5 +14077,31 @@
     "start_date_local": "2026-03-14T14:42:22Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-15",
+    "distance": 37440.4,
+    "elevation_gain": 0.0,
+    "id": "17734525661",
+    "moving_time": 4774.0,
+    "name": "Maximum vo2 max",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-15T11:55:15Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-15",
+    "distance": 5995.1,
+    "elevation_gain": 87.0,
+    "id": "17736727466",
+    "moving_time": 5770.0,
+    "name": "Long recovery walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-03-15T15:48:59Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
