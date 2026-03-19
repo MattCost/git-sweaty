@@ -14116,5 +14116,18 @@
     "start_date_local": "2026-03-17T10:09:06Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-18",
+    "distance": 23699.7,
+    "elevation_gain": 0.0,
+    "id": "17773435852",
+    "moving_time": 2714.0,
+    "name": "EZ Z2",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-18T19:08:55Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
