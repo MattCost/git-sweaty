@@ -14155,5 +14155,18 @@
     "start_date_local": "2026-03-19T17:20:17Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-03-20",
+    "distance": 40093.4,
+    "elevation_gain": 0.0,
+    "id": "17795980078",
+    "moving_time": 4778.0,
+    "name": "Glad that block is over",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-20T16:37:16Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
