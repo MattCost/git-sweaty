@@ -9809,6 +9809,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/17795980078",
       "year": 2026
+    },
+    {
+      "date": "2026-03-21",
+      "hour": 15,
+      "name": "Long walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/17808350476",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -18836,6 +18845,15 @@
           "distance": 3095.5,
           "elevation_gain": 20.0,
           "moving_time": 4234.0
+        },
+        "2026-03-21": {
+          "activity_ids": [
+            "17808350476"
+          ],
+          "count": 1,
+          "distance": 5414.6,
+          "elevation_gain": 33.0,
+          "moving_time": 6253.0
         }
       },
       "WeightTraining": {
@@ -18995,7 +19013,7 @@
       }
     }
   },
-  "generated_at": "2026-03-21T15:15:32.989866+00:00",
+  "generated_at": "2026-03-22T15:15:59.654362+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/88131214",
   "repo": "MattCost/git-sweaty",
