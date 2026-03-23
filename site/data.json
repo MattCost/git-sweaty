@@ -9818,6 +9818,24 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/17808350476",
       "year": 2026
+    },
+    {
+      "date": "2026-03-22",
+      "hour": 12,
+      "name": "Long ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17819936082",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-23",
+      "hour": 9,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17828298579",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -18650,6 +18668,15 @@
           "distance": 40093.4,
           "elevation_gain": 0.0,
           "moving_time": 4778.0
+        },
+        "2026-03-22": {
+          "activity_ids": [
+            "17819936082"
+          ],
+          "count": 1,
+          "distance": 46179.5,
+          "elevation_gain": 0.0,
+          "moving_time": 5800.0
         }
       },
       "Snowboard": {
@@ -19009,11 +19036,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3222.0
+        },
+        "2026-03-23": {
+          "activity_ids": [
+            "17828298579"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2998.0
         }
       }
     }
   },
-  "generated_at": "2026-03-22T15:15:59.654362+00:00",
+  "generated_at": "2026-03-23T15:50:35.782816+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/88131214",
   "repo": "MattCost/git-sweaty",
