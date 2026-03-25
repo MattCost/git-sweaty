@@ -14220,5 +14220,18 @@
     "start_date_local": "2026-03-24T07:02:05Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-25",
+    "distance": 30371.0,
+    "elevation_gain": 0.0,
+    "id": "17852234526",
+    "moving_time": 3269.0,
+    "name": "Early shift threshold ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-25T06:56:56Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
