@@ -14233,5 +14233,31 @@
     "start_date_local": "2026-03-25T06:56:56Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-26",
+    "distance": 16684.3,
+    "elevation_gain": 72.0,
+    "id": "17867051543",
+    "moving_time": 2684.0,
+    "name": "Lunchtime quick spin",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-03-26T11:49:22Z",
+    "type": "GravelRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-26",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17870884094",
+    "moving_time": 1914.0,
+    "name": "Core and shoulder work",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-26T18:05:55Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]

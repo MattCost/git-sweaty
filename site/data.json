@@ -9854,6 +9854,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/17852234526",
       "year": 2026
+    },
+    {
+      "date": "2026-03-26",
+      "hour": 11,
+      "name": "Lunchtime quick spin",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "url": "https://www.strava.com/activities/17867051543",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-26",
+      "hour": 18,
+      "name": "Core and shoulder work",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17870884094",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -18261,6 +18279,15 @@
           "distance": 28317.1,
           "elevation_gain": 119.0,
           "moving_time": 4818.0
+        },
+        "2026-03-26": {
+          "activity_ids": [
+            "17867051543"
+          ],
+          "count": 1,
+          "distance": 16684.3,
+          "elevation_gain": 72.0,
+          "moving_time": 2684.0
         }
       },
       "Ride": {
@@ -19081,11 +19108,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2998.0
+        },
+        "2026-03-26": {
+          "activity_ids": [
+            "17870884094"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1914.0
         }
       }
     }
   },
-  "generated_at": "2026-03-26T16:01:14.312420+00:00",
+  "generated_at": "2026-03-27T15:40:45.272210+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/88131214",
   "repo": "MattCost/git-sweaty",
