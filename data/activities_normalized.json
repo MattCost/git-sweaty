@@ -14259,5 +14259,31 @@
     "start_date_local": "2026-03-26T18:05:55Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-27",
+    "distance": 30603.6,
+    "elevation_gain": 0.0,
+    "id": "17878812196",
+    "moving_time": 3147.0,
+    "name": "Threshold lunch",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-27T12:04:28Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-27",
+    "distance": 3751.1,
+    "elevation_gain": 18.0,
+    "id": "17881415041",
+    "moving_time": 4471.0,
+    "name": "Duck walk at Tifft",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-03-27T16:10:05Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
