@@ -14285,5 +14285,31 @@
     "start_date_local": "2026-03-27T16:10:05Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 28583.6,
+    "elevation_gain": 0.0,
+    "id": "17892642577",
+    "moving_time": 3601.0,
+    "name": "Z2 base",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-28T14:23:34Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 2868.8,
+    "elevation_gain": 38.0,
+    "id": "17895306973",
+    "moving_time": 4297.0,
+    "name": "Evening Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-03-28T20:12:09Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
