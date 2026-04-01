@@ -9935,6 +9935,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/17924837869",
       "year": 2026
+    },
+    {
+      "date": "2026-03-31",
+      "hour": 12,
+      "name": "Sun and wind",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "url": "https://www.strava.com/activities/17927478160",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -18360,6 +18369,15 @@
           "distance": 27175.2,
           "elevation_gain": 168.0,
           "moving_time": 5960.0
+        },
+        "2026-03-31": {
+          "activity_ids": [
+            "17927478160"
+          ],
+          "count": 1,
+          "distance": 12000.6,
+          "elevation_gain": 41.0,
+          "moving_time": 1984.0
         }
       },
       "Ride": {
@@ -19247,7 +19265,7 @@
       }
     }
   },
-  "generated_at": "2026-03-31T15:57:22.635519+00:00",
+  "generated_at": "2026-04-01T16:00:23.030592+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/88131214",
   "repo": "MattCost/git-sweaty",
