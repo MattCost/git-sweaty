@@ -14363,5 +14363,18 @@
     "start_date_local": "2026-03-31T12:28:24Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-01",
+    "distance": 24586.0,
+    "elevation_gain": 0.0,
+    "id": "17943943744",
+    "moving_time": 3149.0,
+    "name": "Short z2",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-01T18:30:34Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

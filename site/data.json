@@ -9944,6 +9944,15 @@
       "type": "GravelRide",
       "url": "https://www.strava.com/activities/17927478160",
       "year": 2026
+    },
+    {
+      "date": "2026-04-01",
+      "hour": 18,
+      "name": "Short z2",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17943943744",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -18848,6 +18857,15 @@
           "distance": 28583.6,
           "elevation_gain": 0.0,
           "moving_time": 3601.0
+        },
+        "2026-04-01": {
+          "activity_ids": [
+            "17943943744"
+          ],
+          "count": 1,
+          "distance": 24586.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3149.0
         }
       },
       "Snowboard": {
@@ -19265,7 +19283,7 @@
       }
     }
   },
-  "generated_at": "2026-04-01T16:00:23.030592+00:00",
+  "generated_at": "2026-04-02T15:48:46.647183+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/88131214",
   "repo": "MattCost/git-sweaty",
