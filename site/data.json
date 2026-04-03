@@ -9953,6 +9953,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/17943943744",
       "year": 2026
+    },
+    {
+      "date": "2026-04-02",
+      "hour": 17,
+      "name": "quick post work spin",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "url": "https://www.strava.com/activities/17955422610",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -18387,6 +18396,15 @@
           "distance": 12000.6,
           "elevation_gain": 41.0,
           "moving_time": 1984.0
+        },
+        "2026-04-02": {
+          "activity_ids": [
+            "17955422610"
+          ],
+          "count": 1,
+          "distance": 19582.9,
+          "elevation_gain": 73.0,
+          "moving_time": 3128.0
         }
       },
       "Ride": {
@@ -19283,7 +19301,7 @@
       }
     }
   },
-  "generated_at": "2026-04-02T15:48:46.647183+00:00",
+  "generated_at": "2026-04-03T15:32:12.590435+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/88131214",
   "repo": "MattCost/git-sweaty",
