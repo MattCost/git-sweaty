@@ -14389,5 +14389,31 @@
     "start_date_local": "2026-04-02T17:48:13Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-03",
+    "distance": 26772.3,
+    "elevation_gain": 106.0,
+    "id": "17965236971",
+    "moving_time": 3901.0,
+    "name": "Threshold work",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-04-03T12:09:37Z",
+    "type": "GravelRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-03",
+    "distance": 4073.8,
+    "elevation_gain": 34.0,
+    "id": "17967638369",
+    "moving_time": 3648.0,
+    "name": "Caz walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-03T17:12:29Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
