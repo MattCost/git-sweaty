@@ -14441,5 +14441,31 @@
     "start_date_local": "2026-04-04T15:55:13Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-05",
+    "distance": 53992.3,
+    "elevation_gain": 908.0,
+    "id": "17991690580",
+    "moving_time": 10966.0,
+    "name": "TdG: Earl grey, cold, windy.",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-04-05T12:14:12Z",
+    "type": "GravelRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-05",
+    "distance": 2516.6,
+    "elevation_gain": 15.0,
+    "id": "17992769710",
+    "moving_time": 2516.0,
+    "name": "Recovery Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-05T17:27:26Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
