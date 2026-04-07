@@ -10016,6 +10016,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/17992769710",
       "year": 2026
+    },
+    {
+      "date": "2026-04-06",
+      "hour": 16,
+      "name": "Birdsong in OP",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18005591816",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -19223,6 +19232,15 @@
           "distance": 2516.6,
           "elevation_gain": 15.0,
           "moving_time": 2516.0
+        },
+        "2026-04-06": {
+          "activity_ids": [
+            "18005591816"
+          ],
+          "count": 1,
+          "distance": 3470.5,
+          "elevation_gain": 12.0,
+          "moving_time": 4268.0
         }
       },
       "WeightTraining": {
@@ -19409,7 +19427,7 @@
       }
     }
   },
-  "generated_at": "2026-04-06T15:36:26.633136+00:00",
+  "generated_at": "2026-04-07T16:03:21.480320+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/88131214",
   "repo": "MattCost/git-sweaty",
