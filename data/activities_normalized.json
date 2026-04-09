@@ -14493,5 +14493,18 @@
     "start_date_local": "2026-04-07T11:57:02Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-08",
+    "distance": 27999.2,
+    "elevation_gain": 73.0,
+    "id": "18033323588",
+    "moving_time": 4660.0,
+    "name": "First stiggy park ride of the season",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-04-08T16:28:41Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]

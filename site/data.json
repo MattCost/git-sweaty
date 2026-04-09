@@ -10034,6 +10034,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18015570210",
       "year": 2026
+    },
+    {
+      "date": "2026-04-08",
+      "hour": 16,
+      "name": "First stiggy park ride of the season",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "url": "https://www.strava.com/activities/18033323588",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -18504,6 +18513,15 @@
           "distance": 53992.3,
           "elevation_gain": 908.0,
           "moving_time": 10966.0
+        },
+        "2026-04-08": {
+          "activity_ids": [
+            "18033323588"
+          ],
+          "count": 1,
+          "distance": 27999.2,
+          "elevation_gain": 73.0,
+          "moving_time": 4660.0
         }
       },
       "Ride": {
@@ -19445,7 +19463,7 @@
       }
     }
   },
-  "generated_at": "2026-04-08T16:06:59.956844+00:00",
+  "generated_at": "2026-04-09T16:10:35.036552+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/88131214",
   "repo": "MattCost/git-sweaty",
