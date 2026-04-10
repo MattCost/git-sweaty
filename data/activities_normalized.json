@@ -14506,5 +14506,18 @@
     "start_date_local": "2026-04-08T16:28:41Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-09",
+    "distance": 36158.9,
+    "elevation_gain": 177.0,
+    "id": "18046604893",
+    "moving_time": 5446.0,
+    "name": "Threshold Thursday",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-04-09T16:06:21Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
