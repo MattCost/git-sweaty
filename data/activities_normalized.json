@@ -14532,5 +14532,18 @@
     "start_date_local": "2026-04-10T11:29:41Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 3595.4,
+    "elevation_gain": 17.0,
+    "id": "18072076390",
+    "moving_time": 4399.0,
+    "name": "Sunny stroll",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-11T17:15:32Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
