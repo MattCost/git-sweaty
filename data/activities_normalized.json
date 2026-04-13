@@ -14545,5 +14545,31 @@
     "start_date_local": "2026-04-11T17:15:32Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 48159.1,
+    "elevation_gain": 762.0,
+    "id": "18083290227",
+    "moving_time": 8116.0,
+    "name": "Tour duh Gravel Java",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-04-12T11:18:28Z",
+    "type": "GravelRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 1143.3,
+    "elevation_gain": 22.0,
+    "id": "18084186363",
+    "moving_time": 1621.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-12T14:40:48Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]

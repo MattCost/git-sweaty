@@ -10070,6 +10070,24 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18072076390",
       "year": 2026
+    },
+    {
+      "date": "2026-04-12",
+      "hour": 11,
+      "name": "Tour duh Gravel Java",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "url": "https://www.strava.com/activities/18083290227",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-12",
+      "hour": 14,
+      "name": "Afternoon Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18084186363",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -18567,6 +18585,15 @@
           "distance": 19137.0,
           "elevation_gain": 49.0,
           "moving_time": 3818.0
+        },
+        "2026-04-12": {
+          "activity_ids": [
+            "18083290227"
+          ],
+          "count": 1,
+          "distance": 48159.1,
+          "elevation_gain": 762.0,
+          "moving_time": 8116.0
         }
       },
       "Ride": {
@@ -19322,6 +19349,15 @@
           "distance": 3595.4,
           "elevation_gain": 17.0,
           "moving_time": 4399.0
+        },
+        "2026-04-12": {
+          "activity_ids": [
+            "18084186363"
+          ],
+          "count": 1,
+          "distance": 1143.3,
+          "elevation_gain": 22.0,
+          "moving_time": 1621.0
         }
       },
       "WeightTraining": {
@@ -19517,7 +19553,7 @@
       }
     }
   },
-  "generated_at": "2026-04-12T15:26:28.818890+00:00",
+  "generated_at": "2026-04-13T16:04:58.973116+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/88131214",
   "repo": "MattCost/git-sweaty",
