@@ -14571,5 +14571,31 @@
     "start_date_local": "2026-04-12T14:40:48Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 14269.5,
+    "elevation_gain": 61.0,
+    "id": "18097386179",
+    "moving_time": 2925.0,
+    "name": "Quick spin",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-04-13T17:47:18Z",
+    "type": "GravelRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-14",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18103569574",
+    "moving_time": 2892.0,
+    "name": "Ugga dugga",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-14T07:14:17Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
