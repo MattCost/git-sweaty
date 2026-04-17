@@ -14623,5 +14623,18 @@
     "start_date_local": "2026-04-15T11:52:28Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-16",
+    "distance": 26159.9,
+    "elevation_gain": 79.0,
+    "id": "18134464345",
+    "moving_time": 3942.0,
+    "name": "Threshold loop",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-04-16T11:46:17Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
