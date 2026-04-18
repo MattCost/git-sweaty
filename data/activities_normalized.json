@@ -14636,5 +14636,18 @@
     "start_date_local": "2026-04-16T11:46:17Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-17",
+    "distance": 33846.5,
+    "elevation_gain": 127.0,
+    "id": "18150415738",
+    "moving_time": 5787.0,
+    "name": "Ch ch ch ch cherry blossoms",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-04-17T16:45:57Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]

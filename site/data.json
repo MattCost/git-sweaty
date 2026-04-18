@@ -10133,6 +10133,15 @@
       "type": "GravelRide",
       "url": "https://www.strava.com/activities/18134464345",
       "year": 2026
+    },
+    {
+      "date": "2026-04-17",
+      "hour": 16,
+      "name": "Ch ch ch ch cherry blossoms",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "url": "https://www.strava.com/activities/18150415738",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -18666,6 +18675,15 @@
           "distance": 26159.9,
           "elevation_gain": 79.0,
           "moving_time": 3942.0
+        },
+        "2026-04-17": {
+          "activity_ids": [
+            "18150415738"
+          ],
+          "count": 1,
+          "distance": 33846.5,
+          "elevation_gain": 127.0,
+          "moving_time": 5787.0
         }
       },
       "Ride": {
@@ -19643,7 +19661,7 @@
       }
     }
   },
-  "generated_at": "2026-04-17T15:47:44.383192+00:00",
+  "generated_at": "2026-04-18T15:27:49.445017+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/88131214",
   "repo": "MattCost/git-sweaty",
