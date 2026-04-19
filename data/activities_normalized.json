@@ -14649,5 +14649,18 @@
     "start_date_local": "2026-04-17T16:45:57Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 81155.0,
+    "elevation_gain": 518.0,
+    "id": "18160768846",
+    "moving_time": 11860.0,
+    "name": "Rolling, roiling, hills and wind",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-04-18T08:35:25Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
