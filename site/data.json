@@ -10169,6 +10169,15 @@
       "type": "GravelRide",
       "url": "https://www.strava.com/activities/18189646162",
       "year": 2026
+    },
+    {
+      "date": "2026-04-21",
+      "hour": 16,
+      "name": "Threshold Thursday came early this week",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "url": "https://www.strava.com/activities/18204541750",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -18729,6 +18738,15 @@
           "distance": 23097.1,
           "elevation_gain": 15.0,
           "moving_time": 3010.0
+        },
+        "2026-04-21": {
+          "activity_ids": [
+            "18204541750"
+          ],
+          "count": 1,
+          "distance": 37425.5,
+          "elevation_gain": 201.0,
+          "moving_time": 5119.0
         }
       },
       "Ride": {
@@ -19715,7 +19733,7 @@
       }
     }
   },
-  "generated_at": "2026-04-21T16:02:31.625542+00:00",
+  "generated_at": "2026-04-22T16:00:36.579892+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/88131214",
   "repo": "MattCost/git-sweaty",
