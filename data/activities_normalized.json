@@ -14701,5 +14701,18 @@
     "start_date_local": "2026-04-21T16:57:23Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-22",
+    "distance": 12137.3,
+    "elevation_gain": 56.0,
+    "id": "18217788863",
+    "moving_time": 2018.0,
+    "name": "Too short",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-04-22T16:46:54Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
