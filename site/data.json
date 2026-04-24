@@ -10187,6 +10187,15 @@
       "type": "GravelRide",
       "url": "https://www.strava.com/activities/18217788863",
       "year": 2026
+    },
+    {
+      "date": "2026-04-23",
+      "hour": 11,
+      "name": "Harbor spin",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "url": "https://www.strava.com/activities/18228183261",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -18765,6 +18774,15 @@
           "distance": 12137.3,
           "elevation_gain": 56.0,
           "moving_time": 2018.0
+        },
+        "2026-04-23": {
+          "activity_ids": [
+            "18228183261"
+          ],
+          "count": 1,
+          "distance": 24929.7,
+          "elevation_gain": 86.0,
+          "moving_time": 3695.0
         }
       },
       "Ride": {
@@ -19751,7 +19769,7 @@
       }
     }
   },
-  "generated_at": "2026-04-23T16:24:26.364654+00:00",
+  "generated_at": "2026-04-24T15:57:29.854919+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/88131214",
   "repo": "MattCost/git-sweaty",
