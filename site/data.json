@@ -10196,6 +10196,15 @@
       "type": "GravelRide",
       "url": "https://www.strava.com/activities/18228183261",
       "year": 2026
+    },
+    {
+      "date": "2026-04-24",
+      "hour": 16,
+      "name": "Tifft",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18244495804",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -19565,6 +19574,15 @@
           "distance": 5424.3,
           "elevation_gain": 34.0,
           "moving_time": 5451.0
+        },
+        "2026-04-24": {
+          "activity_ids": [
+            "18244495804"
+          ],
+          "count": 1,
+          "distance": 4403.2,
+          "elevation_gain": 30.0,
+          "moving_time": 5940.0
         }
       },
       "WeightTraining": {
@@ -19769,7 +19787,7 @@
       }
     }
   },
-  "generated_at": "2026-04-24T15:57:29.854919+00:00",
+  "generated_at": "2026-04-25T15:31:04.033294+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/88131214",
   "repo": "MattCost/git-sweaty",
