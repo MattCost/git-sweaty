@@ -10205,6 +10205,33 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18244495804",
       "year": 2026
+    },
+    {
+      "date": "2026-04-25",
+      "hour": 14,
+      "name": "P2A Openers",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18256556402",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-25",
+      "hour": 17,
+      "name": "Caz park",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18258125024",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-26",
+      "hour": 8,
+      "name": "\"warmup\"",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "url": "https://www.strava.com/activities/18266011780",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -18792,6 +18819,15 @@
           "distance": 24929.7,
           "elevation_gain": 86.0,
           "moving_time": 3695.0
+        },
+        "2026-04-26": {
+          "activity_ids": [
+            "18266011780"
+          ],
+          "count": 1,
+          "distance": 2225.9,
+          "elevation_gain": 28.0,
+          "moving_time": 770.0
         }
       },
       "Ride": {
@@ -19271,6 +19307,15 @@
           "distance": 24586.0,
           "elevation_gain": 0.0,
           "moving_time": 3149.0
+        },
+        "2026-04-25": {
+          "activity_ids": [
+            "18256556402"
+          ],
+          "count": 1,
+          "distance": 21460.3,
+          "elevation_gain": 0.0,
+          "moving_time": 2745.0
         }
       },
       "Snowboard": {
@@ -19583,6 +19628,15 @@
           "distance": 4403.2,
           "elevation_gain": 30.0,
           "moving_time": 5940.0
+        },
+        "2026-04-25": {
+          "activity_ids": [
+            "18258125024"
+          ],
+          "count": 1,
+          "distance": 4128.0,
+          "elevation_gain": 19.0,
+          "moving_time": 4623.0
         }
       },
       "WeightTraining": {
@@ -19787,7 +19841,7 @@
       }
     }
   },
-  "generated_at": "2026-04-25T15:31:04.033294+00:00",
+  "generated_at": "2026-04-26T15:32:53.271954+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/88131214",
   "repo": "MattCost/git-sweaty",

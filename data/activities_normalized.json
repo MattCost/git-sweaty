@@ -14740,5 +14740,44 @@
     "start_date_local": "2026-04-24T16:52:27Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-25",
+    "distance": 21460.3,
+    "elevation_gain": 0.0,
+    "id": "18256556402",
+    "moving_time": 2745.0,
+    "name": "P2A Openers",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-25T14:25:21Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-25",
+    "distance": 4128.0,
+    "elevation_gain": 19.0,
+    "id": "18258125024",
+    "moving_time": 4623.0,
+    "name": "Caz park",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-25T17:30:40Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-26",
+    "distance": 2225.9,
+    "elevation_gain": 28.0,
+    "id": "18266011780",
+    "moving_time": 770.0,
+    "name": "\"warmup\"",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-04-26T08:50:05Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
