@@ -14779,5 +14779,31 @@
     "start_date_local": "2026-04-26T08:50:05Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-26",
+    "distance": 65374.7,
+    "elevation_gain": 564.0,
+    "id": "18268902911",
+    "moving_time": 10279.0,
+    "name": "P2A 2026",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-04-26T09:29:37Z",
+    "type": "GravelRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-26",
+    "distance": 1818.0,
+    "elevation_gain": 16.0,
+    "id": "18272067480",
+    "moving_time": 2226.0,
+    "name": "Birds \ud83d\udc26 of Canada",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-26T16:55:39Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
