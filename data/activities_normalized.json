@@ -14818,5 +14818,18 @@
     "start_date_local": "2026-04-27T17:02:25Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-28",
+    "distance": 27135.0,
+    "elevation_gain": 104.0,
+    "id": "18298861630",
+    "moving_time": 4117.0,
+    "name": "So much stoke outside the arena",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-04-28T17:38:42Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
