@@ -10268,6 +10268,24 @@
       "type": "GravelRide",
       "url": "https://www.strava.com/activities/18298861630",
       "year": 2026
+    },
+    {
+      "date": "2026-04-29",
+      "hour": 12,
+      "name": "Got a bit rusty",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18308675013",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-30",
+      "hour": 7,
+      "name": "Breakfast at Tifftanys",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18318769404",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -19701,6 +19719,15 @@
           "distance": 4089.0,
           "elevation_gain": 36.0,
           "moving_time": 5551.0
+        },
+        "2026-04-30": {
+          "activity_ids": [
+            "18318769404"
+          ],
+          "count": 1,
+          "distance": 2347.5,
+          "elevation_gain": 9.0,
+          "moving_time": 2962.0
         }
       },
       "WeightTraining": {
@@ -19901,11 +19928,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2892.0
+        },
+        "2026-04-29": {
+          "activity_ids": [
+            "18308675013"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2518.0
         }
       }
     }
   },
-  "generated_at": "2026-04-29T16:23:02.538213+00:00",
+  "generated_at": "2026-04-30T16:12:13.803052+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/88131214",
   "repo": "MattCost/git-sweaty",
