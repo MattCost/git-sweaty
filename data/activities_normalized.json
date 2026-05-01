@@ -14857,5 +14857,31 @@
     "start_date_local": "2026-04-30T07:45:42Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 21471.6,
+    "elevation_gain": 77.0,
+    "id": "18324374852",
+    "moving_time": 3216.0,
+    "name": "Cold park laps >>>> trainer",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-04-30T16:49:10Z",
+    "type": "GravelRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 2698.8,
+    "elevation_gain": 12.0,
+    "id": "18325132163",
+    "moving_time": 3288.0,
+    "name": "Evening Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-30T18:08:19Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
