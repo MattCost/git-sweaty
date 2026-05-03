@@ -14896,5 +14896,18 @@
     "start_date_local": "2026-05-01T17:47:36Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 64405.1,
+    "elevation_gain": 538.0,
+    "id": "18351600784",
+    "moving_time": 11764.0,
+    "name": "GV Pathfinders - Black Creek / Oatka Creek",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-05-02T11:10:57Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]

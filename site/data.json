@@ -10313,6 +10313,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18339228793",
       "year": 2026
+    },
+    {
+      "date": "2026-05-02",
+      "hour": 11,
+      "name": "GV Pathfinders - Black Creek / Oatka Creek",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "url": "https://www.strava.com/activities/18351600784",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -18928,6 +18937,15 @@
           "distance": 21471.6,
           "elevation_gain": 77.0,
           "moving_time": 3216.0
+        },
+        "2026-05-02": {
+          "activity_ids": [
+            "18351600784"
+          ],
+          "count": 1,
+          "distance": 64405.1,
+          "elevation_gain": 538.0,
+          "moving_time": 11764.0
         }
       },
       "Ride": {
@@ -19987,7 +20005,7 @@
       }
     }
   },
-  "generated_at": "2026-05-02T15:36:37.832827+00:00",
+  "generated_at": "2026-05-03T15:36:30.350898+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/88131214",
   "repo": "MattCost/git-sweaty",
