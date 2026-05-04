@@ -14909,5 +14909,18 @@
     "start_date_local": "2026-05-02T11:10:57Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 83321.3,
+    "elevation_gain": 365.0,
+    "id": "18364240248",
+    "moving_time": 13957.0,
+    "name": "TdG Ft Erie The iternational affair",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-05-03T10:26:53Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
