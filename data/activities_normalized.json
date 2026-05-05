@@ -14922,5 +14922,31 @@
     "start_date_local": "2026-05-03T10:26:53Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-04",
+    "distance": 1616.4,
+    "elevation_gain": 39.0,
+    "id": "18377547258",
+    "moving_time": 2232.0,
+    "name": "Ghost Pond",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-04T17:09:32Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-04",
+    "distance": 832.1,
+    "elevation_gain": 21.0,
+    "id": "18377833990",
+    "moving_time": 1388.0,
+    "name": "Jenny Glen Boardwalk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-04T17:54:07Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
