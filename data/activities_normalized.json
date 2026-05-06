@@ -14948,5 +14948,18 @@
     "start_date_local": "2026-05-04T17:54:07Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-05",
+    "distance": 14377.2,
+    "elevation_gain": 83.0,
+    "id": "18387614728",
+    "moving_time": 2624.0,
+    "name": "EZ spin",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-05-05T11:48:03Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
