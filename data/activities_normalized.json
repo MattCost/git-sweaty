@@ -14961,5 +14961,18 @@
     "start_date_local": "2026-05-05T11:48:03Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-06",
+    "distance": 44244.2,
+    "elevation_gain": 168.0,
+    "id": "18406209203",
+    "moving_time": 5978.0,
+    "name": "CCC B25 ride!",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-05-06T18:13:03Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
