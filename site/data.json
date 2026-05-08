@@ -10367,6 +10367,15 @@
       "type": "GravelRide",
       "url": "https://www.strava.com/activities/18406209203",
       "year": 2026
+    },
+    {
+      "date": "2026-05-07",
+      "hour": 11,
+      "name": "Quick lunch ride",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "url": "https://www.strava.com/activities/18414776765",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -19018,6 +19027,15 @@
           "distance": 44244.2,
           "elevation_gain": 168.0,
           "moving_time": 5978.0
+        },
+        "2026-05-07": {
+          "activity_ids": [
+            "18414776765"
+          ],
+          "count": 1,
+          "distance": 27419.3,
+          "elevation_gain": 103.0,
+          "moving_time": 4114.0
         }
       },
       "Ride": {
@@ -20087,7 +20105,7 @@
       }
     }
   },
-  "generated_at": "2026-05-07T16:31:12.012974+00:00",
+  "generated_at": "2026-05-08T16:07:47.309080+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/88131214",
   "repo": "MattCost/git-sweaty",
