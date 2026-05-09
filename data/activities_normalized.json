@@ -14987,5 +14987,18 @@
     "start_date_local": "2026-05-07T11:48:40Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-08",
+    "distance": 4484.1,
+    "elevation_gain": 66.0,
+    "id": "18431220906",
+    "moving_time": 6087.0,
+    "name": "Critters of Knox",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-08T16:23:27Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]

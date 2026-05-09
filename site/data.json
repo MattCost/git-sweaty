@@ -10376,6 +10376,15 @@
       "type": "GravelRide",
       "url": "https://www.strava.com/activities/18414776765",
       "year": 2026
+    },
+    {
+      "date": "2026-05-08",
+      "hour": 16,
+      "name": "Critters of Knox",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18431220906",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -19892,6 +19901,15 @@
           "distance": 2448.5,
           "elevation_gain": 60.0,
           "moving_time": 3620.0
+        },
+        "2026-05-08": {
+          "activity_ids": [
+            "18431220906"
+          ],
+          "count": 1,
+          "distance": 4484.1,
+          "elevation_gain": 66.0,
+          "moving_time": 6087.0
         }
       },
       "WeightTraining": {
@@ -20105,7 +20123,7 @@
       }
     }
   },
-  "generated_at": "2026-05-08T16:07:47.309080+00:00",
+  "generated_at": "2026-05-09T15:39:41.419979+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/88131214",
   "repo": "MattCost/git-sweaty",
