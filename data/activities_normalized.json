@@ -15000,5 +15000,31 @@
     "start_date_local": "2026-05-08T16:23:27Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 61465.7,
+    "elevation_gain": 864.0,
+    "id": "18442701763",
+    "moving_time": 12499.0,
+    "name": "GV Patherfinders",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-05-09T10:08:02Z",
+    "type": "GravelRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 2600.2,
+    "elevation_gain": 46.5,
+    "id": "18443811380",
+    "moving_time": 4162.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-09T15:10:43Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
