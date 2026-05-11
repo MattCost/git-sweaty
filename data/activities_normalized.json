@@ -15026,5 +15026,31 @@
     "start_date_local": "2026-05-09T15:10:43Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-10",
+    "distance": 48457.2,
+    "elevation_gain": 285.0,
+    "id": "18454579642",
+    "moving_time": 7013.0,
+    "name": "Sunny Sunday morning ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-05-10T09:45:46Z",
+    "type": "GravelRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-11",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18463774318",
+    "moving_time": 2905.0,
+    "name": "That's gonna leave a mark",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-11T08:40:18Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
