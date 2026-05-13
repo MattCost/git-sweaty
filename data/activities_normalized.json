@@ -15065,5 +15065,18 @@
     "start_date_local": "2026-05-11T16:35:42Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-12",
+    "distance": 26027.5,
+    "elevation_gain": 73.0,
+    "id": "18483968800",
+    "moving_time": 4435.0,
+    "name": "West Seneca wetlands",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-05-12T17:28:22Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
