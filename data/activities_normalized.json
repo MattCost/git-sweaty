@@ -15098,11 +15098,37 @@
     "elevation_gain": 0.0,
     "id": "18506658038",
     "moving_time": 2992.0,
-    "name": "Lunch Ride",
+    "name": "Quick FTP Check",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-05-14T12:03:53Z",
     "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-14",
+    "distance": 4281.4,
+    "elevation_gain": 5.8,
+    "id": "18510156928",
+    "moving_time": 4935.0,
+    "name": "Drizzly Reinstein",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-14T17:25:13Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-15",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18518830658",
+    "moving_time": 2068.0,
+    "name": "Squats and Bench",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-15T11:58:21Z",
+    "type": "WeightTraining",
     "year": 2026
   }
 ]
