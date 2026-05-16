@@ -15130,5 +15130,18 @@
     "start_date_local": "2026-05-15T11:58:21Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-15",
+    "distance": 42074.5,
+    "elevation_gain": 253.0,
+    "id": "18521756041",
+    "moving_time": 5879.0,
+    "name": "Friday night wind",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-15T16:36:27Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
