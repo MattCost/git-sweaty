@@ -15143,5 +15143,31 @@
     "start_date_local": "2026-05-15T16:36:27Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 80794.7,
+    "elevation_gain": 772.0,
+    "id": "18532537412",
+    "moving_time": 11616.0,
+    "name": "Summer Weather, Summer Riding",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-16T09:26:09Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 3316.7,
+    "elevation_gain": 10.2,
+    "id": "18535239253",
+    "moving_time": 3990.0,
+    "name": "Caz walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-16T17:25:47Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]

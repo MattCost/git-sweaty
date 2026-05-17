@@ -10484,6 +10484,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18521756041",
       "year": 2026
+    },
+    {
+      "date": "2026-05-16",
+      "hour": 9,
+      "name": "Summer Weather, Summer Riding",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18532537412",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-16",
+      "hour": 17,
+      "name": "Caz walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18535239253",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -19686,6 +19704,15 @@
           "distance": 42074.5,
           "elevation_gain": 253.0,
           "moving_time": 5879.0
+        },
+        "2026-05-16": {
+          "activity_ids": [
+            "18532537412"
+          ],
+          "count": 1,
+          "distance": 80794.7,
+          "elevation_gain": 772.0,
+          "moving_time": 11616.0
         }
       },
       "Snowboard": {
@@ -20090,6 +20117,15 @@
           "distance": 4281.4,
           "elevation_gain": 5.8,
           "moving_time": 4935.0
+        },
+        "2026-05-16": {
+          "activity_ids": [
+            "18535239253"
+          ],
+          "count": 1,
+          "distance": 3316.7,
+          "elevation_gain": 10.2,
+          "moving_time": 3990.0
         }
       },
       "WeightTraining": {
@@ -20321,7 +20357,7 @@
       }
     }
   },
-  "generated_at": "2026-05-16T15:45:45.576594+00:00",
+  "generated_at": "2026-05-17T15:48:16.421525+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/88131214",
   "repo": "MattCost/git-sweaty",
