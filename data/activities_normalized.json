@@ -15169,5 +15169,44 @@
     "start_date_local": "2026-05-16T17:25:47Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 4014.4,
+    "elevation_gain": 2.3,
+    "id": "18545219143",
+    "moving_time": 4673.0,
+    "name": "Turtles at Tifft",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-17T09:56:52Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 43214.7,
+    "elevation_gain": 255.0,
+    "id": "18547899590",
+    "moving_time": 6133.0,
+    "name": "Sturgeon Pt from Hamburg",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-17T14:08:12Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-18",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18554135842",
+    "moving_time": 1915.0,
+    "name": "Maintenance mode",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-18T08:00:00Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]

@@ -10502,6 +10502,33 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18535239253",
       "year": 2026
+    },
+    {
+      "date": "2026-05-17",
+      "hour": 9,
+      "name": "Turtles at Tifft",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18545219143",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-17",
+      "hour": 14,
+      "name": "Sturgeon Pt from Hamburg",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18547899590",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-18",
+      "hour": 8,
+      "name": "Maintenance mode",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18554135842",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -19713,6 +19740,15 @@
           "distance": 80794.7,
           "elevation_gain": 772.0,
           "moving_time": 11616.0
+        },
+        "2026-05-17": {
+          "activity_ids": [
+            "18547899590"
+          ],
+          "count": 1,
+          "distance": 43214.7,
+          "elevation_gain": 255.0,
+          "moving_time": 6133.0
         }
       },
       "Snowboard": {
@@ -20126,6 +20162,15 @@
           "distance": 3316.7,
           "elevation_gain": 10.2,
           "moving_time": 3990.0
+        },
+        "2026-05-17": {
+          "activity_ids": [
+            "18545219143"
+          ],
+          "count": 1,
+          "distance": 4014.4,
+          "elevation_gain": 2.3,
+          "moving_time": 4673.0
         }
       },
       "WeightTraining": {
@@ -20353,11 +20398,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2068.0
+        },
+        "2026-05-18": {
+          "activity_ids": [
+            "18554135842"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1915.0
         }
       }
     }
   },
-  "generated_at": "2026-05-17T15:48:16.421525+00:00",
+  "generated_at": "2026-05-18T17:23:47.124669+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/88131214",
   "repo": "MattCost/git-sweaty",
