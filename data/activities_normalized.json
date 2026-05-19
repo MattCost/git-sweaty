@@ -15208,5 +15208,18 @@
     "start_date_local": "2026-05-18T08:00:00Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-18",
+    "distance": 3209.1,
+    "elevation_gain": 50.0,
+    "id": "18561451337",
+    "moving_time": 5239.0,
+    "name": "Kenneglenn Nature walk.",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-18T17:59:57Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
