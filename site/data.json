@@ -10538,6 +10538,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18561451337",
       "year": 2026
+    },
+    {
+      "date": "2026-05-19",
+      "hour": 17,
+      "name": "Custards first ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18574897952",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -19758,6 +19767,15 @@
           "distance": 43214.7,
           "elevation_gain": 255.0,
           "moving_time": 6133.0
+        },
+        "2026-05-19": {
+          "activity_ids": [
+            "18574897952"
+          ],
+          "count": 1,
+          "distance": 28757.7,
+          "elevation_gain": 102.0,
+          "moving_time": 4345.0
         }
       },
       "Snowboard": {
@@ -20429,7 +20447,7 @@
       }
     }
   },
-  "generated_at": "2026-05-19T17:32:51.109856+00:00",
+  "generated_at": "2026-05-20T17:48:48.901037+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/88131214",
   "repo": "MattCost/git-sweaty",

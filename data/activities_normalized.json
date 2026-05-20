@@ -15221,5 +15221,18 @@
     "start_date_local": "2026-05-18T17:59:57Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 28757.7,
+    "elevation_gain": 102.0,
+    "id": "18574897952",
+    "moving_time": 4345.0,
+    "name": "Custards first ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-19T17:36:05Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
