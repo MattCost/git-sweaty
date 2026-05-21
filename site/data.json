@@ -10547,6 +10547,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18574897952",
       "year": 2026
+    },
+    {
+      "date": "2026-05-20",
+      "hour": 18,
+      "name": "CCC ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18589112041",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-21",
+      "hour": 6,
+      "name": "Ducks at caz park",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18594018333",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -19776,6 +19794,15 @@
           "distance": 28757.7,
           "elevation_gain": 102.0,
           "moving_time": 4345.0
+        },
+        "2026-05-20": {
+          "activity_ids": [
+            "18589112041"
+          ],
+          "count": 1,
+          "distance": 44575.8,
+          "elevation_gain": 181.0,
+          "moving_time": 6010.0
         }
       },
       "Snowboard": {
@@ -20207,6 +20234,15 @@
           "distance": 3209.1,
           "elevation_gain": 50.0,
           "moving_time": 5239.0
+        },
+        "2026-05-21": {
+          "activity_ids": [
+            "18594018333"
+          ],
+          "count": 1,
+          "distance": 3636.8,
+          "elevation_gain": 10.7,
+          "moving_time": 3259.0
         }
       },
       "WeightTraining": {
@@ -20447,7 +20483,7 @@
       }
     }
   },
-  "generated_at": "2026-05-20T17:48:48.901037+00:00",
+  "generated_at": "2026-05-21T17:25:36.194086+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/88131214",
   "repo": "MattCost/git-sweaty",
