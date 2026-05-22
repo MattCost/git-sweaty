@@ -15260,5 +15260,18 @@
     "start_date_local": "2026-05-21T06:43:37Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-21",
+    "distance": 40215.7,
+    "elevation_gain": 237.0,
+    "id": "18602046159",
+    "moving_time": 5769.0,
+    "name": "To willardshire",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-21T17:48:37Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
