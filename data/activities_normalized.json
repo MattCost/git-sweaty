@@ -15299,5 +15299,31 @@
     "start_date_local": "2026-05-22T18:29:36Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 48316.9,
+    "elevation_gain": 959.0,
+    "id": "18639055381",
+    "moving_time": 9890.0,
+    "name": "TdG Arkwright. I break for bugs",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-05-24T11:20:19Z",
+    "type": "GravelRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 2199.6,
+    "elevation_gain": 25.7,
+    "id": "18640061757",
+    "moving_time": 3287.0,
+    "name": "Bug walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-24T15:09:56Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
