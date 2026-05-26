@@ -10610,6 +10610,33 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18640061757",
       "year": 2026
+    },
+    {
+      "date": "2026-05-25",
+      "hour": 13,
+      "name": "Buffalo Creek. Around Elma",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18652922975",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-25",
+      "hour": 18,
+      "name": "Kaiju sighting at Reinstein",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18654860062",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-26",
+      "hour": 8,
+      "name": "Morning lifting",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18660591704",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -19875,6 +19902,15 @@
           "distance": 67300.0,
           "elevation_gain": 590.0,
           "moving_time": 10177.0
+        },
+        "2026-05-25": {
+          "activity_ids": [
+            "18652922975"
+          ],
+          "count": 1,
+          "distance": 60442.0,
+          "elevation_gain": 348.0,
+          "moving_time": 8617.0
         }
       },
       "Snowboard": {
@@ -20333,6 +20369,15 @@
           "distance": 2199.6,
           "elevation_gain": 25.7,
           "moving_time": 3287.0
+        },
+        "2026-05-25": {
+          "activity_ids": [
+            "18654860062"
+          ],
+          "count": 1,
+          "distance": 3474.3,
+          "elevation_gain": 5.8,
+          "moving_time": 4782.0
         }
       },
       "WeightTraining": {
@@ -20569,11 +20614,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1915.0
+        },
+        "2026-05-26": {
+          "activity_ids": [
+            "18660591704"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1920.0
         }
       }
     }
   },
-  "generated_at": "2026-05-25T16:56:56.237045+00:00",
+  "generated_at": "2026-05-26T17:50:40.459734+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/88131214",
   "repo": "MattCost/git-sweaty",
