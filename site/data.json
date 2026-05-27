@@ -10637,6 +10637,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18660591704",
       "year": 2026
+    },
+    {
+      "date": "2026-05-26",
+      "hour": 17,
+      "name": "Snapping turtles, racoons, ice cream oh my",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18668198887",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -19911,6 +19920,15 @@
           "distance": 60442.0,
           "elevation_gain": 348.0,
           "moving_time": 8617.0
+        },
+        "2026-05-26": {
+          "activity_ids": [
+            "18668198887"
+          ],
+          "count": 1,
+          "distance": 29355.1,
+          "elevation_gain": 75.0,
+          "moving_time": 5140.0
         }
       },
       "Snowboard": {
@@ -20627,7 +20645,7 @@
       }
     }
   },
-  "generated_at": "2026-05-26T17:50:40.459734+00:00",
+  "generated_at": "2026-05-27T17:49:36.572011+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/88131214",
   "repo": "MattCost/git-sweaty",

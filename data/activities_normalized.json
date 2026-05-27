@@ -15364,5 +15364,18 @@
     "start_date_local": "2026-05-26T08:03:15Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-26",
+    "distance": 29355.1,
+    "elevation_gain": 75.0,
+    "id": "18668198887",
+    "moving_time": 5140.0,
+    "name": "Snapping turtles, racoons, ice cream oh my",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-26T17:41:19Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
