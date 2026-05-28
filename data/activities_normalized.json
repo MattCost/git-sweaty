@@ -15377,5 +15377,18 @@
     "start_date_local": "2026-05-26T17:41:19Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-27",
+    "distance": 13738.7,
+    "elevation_gain": 276.0,
+    "id": "18682734486",
+    "moving_time": 4716.0,
+    "name": "Return of the Mojo",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-05-27T17:57:00Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
