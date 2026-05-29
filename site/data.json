@@ -10655,6 +10655,24 @@
       "type": "GravelRide",
       "url": "https://www.strava.com/activities/18682734486",
       "year": 2026
+    },
+    {
+      "date": "2026-05-28",
+      "hour": 18,
+      "name": "Chipmunk Ridge",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18696385157",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-29",
+      "hour": 7,
+      "name": "Core and Shoulders",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18701456089",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -19371,6 +19389,17 @@
           "moving_time": 4716.0
         }
       },
+      "Hike": {
+        "2026-05-28": {
+          "activity_ids": [
+            "18696385157"
+          ],
+          "count": 1,
+          "distance": 3615.5,
+          "elevation_gain": 44.7,
+          "moving_time": 4952.0
+        }
+      },
       "Ride": {
         "2026-01-02": {
           "activity_ids": [
@@ -20659,11 +20688,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1920.0
+        },
+        "2026-05-29": {
+          "activity_ids": [
+            "18701456089"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 916.0
         }
       }
     }
   },
-  "generated_at": "2026-05-28T17:54:16.567575+00:00",
+  "generated_at": "2026-05-29T17:59:05.144204+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/88131214",
   "repo": "MattCost/git-sweaty",
