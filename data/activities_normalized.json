@@ -15416,5 +15416,18 @@
     "start_date_local": "2026-05-29T07:50:11Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-29",
+    "distance": 33502.5,
+    "elevation_gain": 203.0,
+    "id": "18707174942",
+    "moving_time": 5130.0,
+    "name": "Echelon of 1.",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-29T16:01:45Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

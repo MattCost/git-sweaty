@@ -10673,6 +10673,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18701456089",
       "year": 2026
+    },
+    {
+      "date": "2026-05-29",
+      "hour": 16,
+      "name": "Echelon of 1.",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18707174942",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -19976,6 +19985,15 @@
           "distance": 29355.1,
           "elevation_gain": 75.0,
           "moving_time": 5140.0
+        },
+        "2026-05-29": {
+          "activity_ids": [
+            "18707174942"
+          ],
+          "count": 1,
+          "distance": 33502.5,
+          "elevation_gain": 203.0,
+          "moving_time": 5130.0
         }
       },
       "Snowboard": {
@@ -20701,7 +20719,7 @@
       }
     }
   },
-  "generated_at": "2026-05-29T17:59:05.144204+00:00",
+  "generated_at": "2026-05-30T15:57:24.254595+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/88131214",
   "repo": "MattCost/git-sweaty",
