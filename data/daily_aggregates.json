@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T15:57:24.236293+00:00",
+  "generated_at": "2026-05-31T15:58:44.223073+00:00",
   "years": {
     "2017": {
       "Ride": {
@@ -9310,6 +9310,15 @@
           "distance": 33502.5,
           "elevation_gain": 203.0,
           "moving_time": 5130.0
+        },
+        "2026-05-30": {
+          "activity_ids": [
+            "18719914159"
+          ],
+          "count": 1,
+          "distance": 25852.8,
+          "elevation_gain": 94.0,
+          "moving_time": 4079.0
         }
       },
       "Snowboard": {
@@ -9777,6 +9786,15 @@
           "distance": 3474.3,
           "elevation_gain": 5.8,
           "moving_time": 4782.0
+        },
+        "2026-05-30": {
+          "activity_ids": [
+            "18721130881"
+          ],
+          "count": 1,
+          "distance": 3062.6,
+          "elevation_gain": 20.0,
+          "moving_time": 4159.0
         }
       },
       "WeightTraining": {

@@ -15429,5 +15429,31 @@
     "start_date_local": "2026-05-29T16:01:45Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-30",
+    "distance": 25852.8,
+    "elevation_gain": 94.0,
+    "id": "18719914159",
+    "moving_time": 4079.0,
+    "name": "Harbor ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-30T14:22:59Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-30",
+    "distance": 3062.6,
+    "elevation_gain": 20.0,
+    "id": "18721130881",
+    "moving_time": 4159.0,
+    "name": "Tifft Boardwalks",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-30T16:30:37Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
