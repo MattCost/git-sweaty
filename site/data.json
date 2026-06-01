@@ -10700,6 +10700,24 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18721130881",
       "year": 2026
+    },
+    {
+      "date": "2026-05-31",
+      "hour": 9,
+      "name": "Crump, took the hard way there",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18732925084",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-31",
+      "hour": 15,
+      "name": "Lap of Knox",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18735072341",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20021,6 +20039,15 @@
           "distance": 25852.8,
           "elevation_gain": 94.0,
           "moving_time": 4079.0
+        },
+        "2026-05-31": {
+          "activity_ids": [
+            "18732925084"
+          ],
+          "count": 1,
+          "distance": 92178.9,
+          "elevation_gain": 1147.0,
+          "moving_time": 15417.0
         }
       },
       "Snowboard": {
@@ -20497,6 +20524,15 @@
           "distance": 3062.6,
           "elevation_gain": 20.0,
           "moving_time": 4159.0
+        },
+        "2026-05-31": {
+          "activity_ids": [
+            "18735072341"
+          ],
+          "count": 1,
+          "distance": 6451.3,
+          "elevation_gain": 102.0,
+          "moving_time": 6840.0
         }
       },
       "WeightTraining": {
@@ -20755,7 +20791,7 @@
       }
     }
   },
-  "generated_at": "2026-05-31T15:58:44.241591+00:00",
+  "generated_at": "2026-06-01T19:49:55.626933+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/88131214",
   "repo": "MattCost/git-sweaty",
