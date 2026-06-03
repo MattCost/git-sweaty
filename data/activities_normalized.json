@@ -15494,5 +15494,18 @@
     "start_date_local": "2026-06-01T18:18:41Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-06-02",
+    "distance": 36114.1,
+    "elevation_gain": 180.0,
+    "id": "18762870798",
+    "moving_time": 4810.0,
+    "name": "Vo2 max 4x 4ish",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-02T17:55:28Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

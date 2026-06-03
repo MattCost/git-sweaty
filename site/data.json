@@ -10727,6 +10727,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18748816724",
       "year": 2026
+    },
+    {
+      "date": "2026-06-02",
+      "hour": 17,
+      "name": "Vo2 max 4x 4ish",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18762870798",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20057,6 +20066,15 @@
           "distance": 92178.9,
           "elevation_gain": 1147.0,
           "moving_time": 15417.0
+        },
+        "2026-06-02": {
+          "activity_ids": [
+            "18762870798"
+          ],
+          "count": 1,
+          "distance": 36114.1,
+          "elevation_gain": 180.0,
+          "moving_time": 4810.0
         }
       },
       "Snowboard": {
@@ -20809,7 +20827,7 @@
       }
     }
   },
-  "generated_at": "2026-06-02T18:29:26.721229+00:00",
+  "generated_at": "2026-06-03T18:39:04.882793+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/88131214",
   "repo": "MattCost/git-sweaty",
