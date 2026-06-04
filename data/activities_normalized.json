@@ -15507,5 +15507,31 @@
     "start_date_local": "2026-06-02T17:55:28Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-03",
+    "distance": 40793.8,
+    "elevation_gain": 234.0,
+    "id": "18777019279",
+    "moving_time": 5797.0,
+    "name": "Quick base ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-03T17:55:09Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 27264.9,
+    "elevation_gain": 100.0,
+    "id": "18782878551",
+    "moving_time": 3446.0,
+    "name": "Threshie brekkie",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-04T07:17:53Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
