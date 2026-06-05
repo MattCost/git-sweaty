@@ -15533,5 +15533,31 @@
     "start_date_local": "2026-06-04T07:17:53Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 3462.3,
+    "elevation_gain": 31.0,
+    "id": "18787010640",
+    "moving_time": 2974.0,
+    "name": "Caz",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-04T12:13:44Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-05",
+    "distance": 1173.3,
+    "elevation_gain": 26.0,
+    "id": "18799075197",
+    "moving_time": 2144.0,
+    "name": "Moving rocks",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-06-05T12:02:22Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
