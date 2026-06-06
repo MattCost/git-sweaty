@@ -15559,5 +15559,31 @@
     "start_date_local": "2026-06-05T12:02:22Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-06-05",
+    "distance": 21299.4,
+    "elevation_gain": 60.0,
+    "id": "18802066984",
+    "moving_time": 3303.0,
+    "name": "Harbor spin",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-05T17:10:26Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-05",
+    "distance": 4270.2,
+    "elevation_gain": 30.0,
+    "id": "18803226267",
+    "moving_time": 4800.0,
+    "name": "Birds and tacos",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-05T18:38:45Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
