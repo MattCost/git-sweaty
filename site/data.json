@@ -10790,6 +10790,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18803226267",
       "year": 2026
+    },
+    {
+      "date": "2026-06-06",
+      "hour": 14,
+      "name": "Multi modal Pathfinders ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18815166545",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20156,6 +20165,15 @@
           "distance": 21299.4,
           "elevation_gain": 60.0,
           "moving_time": 3303.0
+        },
+        "2026-06-06": {
+          "activity_ids": [
+            "18815166545"
+          ],
+          "count": 1,
+          "distance": 31850.6,
+          "elevation_gain": 482.0,
+          "moving_time": 6215.0
         }
       },
       "Snowboard": {
@@ -20937,7 +20955,7 @@
       }
     }
   },
-  "generated_at": "2026-06-06T16:00:18.445082+00:00",
+  "generated_at": "2026-06-07T16:05:08.213348+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/88131214",
   "repo": "MattCost/git-sweaty",

@@ -15585,5 +15585,18 @@
     "start_date_local": "2026-06-05T18:38:45Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 31850.6,
+    "elevation_gain": 482.0,
+    "id": "18815166545",
+    "moving_time": 6215.0,
+    "name": "Multi modal Pathfinders ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-06T14:17:40Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
