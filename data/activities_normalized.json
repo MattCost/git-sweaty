@@ -15598,5 +15598,44 @@
     "start_date_local": "2026-06-06T14:17:40Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-07",
+    "distance": 90073.6,
+    "elevation_gain": 900.0,
+    "id": "18828632950",
+    "moving_time": 12724.0,
+    "name": "Wayland ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-07T10:09:19Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-07",
+    "distance": 15361.6,
+    "elevation_gain": 52.0,
+    "id": "18829286934",
+    "moving_time": 2075.0,
+    "name": "Home",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-07T15:11:08Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-07",
+    "distance": 2849.2,
+    "elevation_gain": 27.0,
+    "id": "18830516903",
+    "moving_time": 3580.0,
+    "name": "Tifffft",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-07T17:11:19Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
