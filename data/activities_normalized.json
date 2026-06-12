@@ -15676,5 +15676,18 @@
     "start_date_local": "2026-06-09T17:43:14Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-06-11",
+    "distance": 36619.0,
+    "elevation_gain": 376.0,
+    "id": "18884625983",
+    "moving_time": 5194.0,
+    "name": "Threshold intervals between flats",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-11T17:50:02Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
