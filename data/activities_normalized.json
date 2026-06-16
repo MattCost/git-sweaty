@@ -15741,5 +15741,18 @@
     "start_date_local": "2026-06-15T12:07:04Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-15",
+    "distance": 3224.4,
+    "elevation_gain": 23.0,
+    "id": "18935853069",
+    "moving_time": 4472.0,
+    "name": "Reinstein woods",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-15T17:46:21Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
