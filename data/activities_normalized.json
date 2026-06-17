@@ -15754,5 +15754,18 @@
     "start_date_local": "2026-06-15T17:46:21Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-06-16",
+    "distance": 12464.9,
+    "elevation_gain": 256.0,
+    "id": "18951277427",
+    "moving_time": 4154.0,
+    "name": "Chasing Austin",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-06-16T18:05:00Z",
+    "type": "MountainBikeRide",
+    "year": 2026
   }
 ]
