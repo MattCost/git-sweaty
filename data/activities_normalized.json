@@ -15767,5 +15767,44 @@
     "start_date_local": "2026-06-16T18:05:00Z",
     "type": "MountainBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-17",
+    "distance": 23605.3,
+    "elevation_gain": 115.0,
+    "id": "18963971288",
+    "moving_time": 3386.0,
+    "name": "Long way to the ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-17T16:48:15Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-17",
+    "distance": 23462.9,
+    "elevation_gain": 77.0,
+    "id": "18965104477",
+    "moving_time": 4895.0,
+    "name": "CCC B15 ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-17T18:14:29Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-17",
+    "distance": 14447.8,
+    "elevation_gain": 42.0,
+    "id": "18965466064",
+    "moving_time": 1972.0,
+    "name": "Beat the rain",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-17T20:10:05Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

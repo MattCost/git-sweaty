@@ -10916,6 +10916,33 @@
       "type": "MountainBikeRide",
       "url": "https://www.strava.com/activities/18951277427",
       "year": 2026
+    },
+    {
+      "date": "2026-06-17",
+      "hour": 16,
+      "name": "Long way to the ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18963971288",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-17",
+      "hour": 18,
+      "name": "CCC B15 ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18965104477",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-17",
+      "hour": 20,
+      "name": "Beat the rain",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18965466064",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20366,6 +20393,17 @@
           "distance": 14951.9,
           "elevation_gain": 48.0,
           "moving_time": 2558.0
+        },
+        "2026-06-17": {
+          "activity_ids": [
+            "18963971288",
+            "18965104477",
+            "18965466064"
+          ],
+          "count": 3,
+          "distance": 61516.0,
+          "elevation_gain": 234.0,
+          "moving_time": 10253.0
         }
       },
       "Snowboard": {
@@ -21183,7 +21221,7 @@
       }
     }
   },
-  "generated_at": "2026-06-17T17:42:27.233419+00:00",
+  "generated_at": "2026-06-18T17:52:39.281239+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/88131214",
   "repo": "MattCost/git-sweaty",
