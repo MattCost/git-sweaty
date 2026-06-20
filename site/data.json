@@ -10952,6 +10952,24 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18977759391",
       "year": 2026
+    },
+    {
+      "date": "2026-06-19",
+      "hour": 12,
+      "name": "Stupid windy lunchtime quicky",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18986804201",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-19",
+      "hour": 18,
+      "name": "Tifft",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18989954296",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20413,6 +20431,15 @@
           "distance": 61516.0,
           "elevation_gain": 234.0,
           "moving_time": 10253.0
+        },
+        "2026-06-19": {
+          "activity_ids": [
+            "18986804201"
+          ],
+          "count": 1,
+          "distance": 25207.3,
+          "elevation_gain": 137.0,
+          "moving_time": 3842.0
         }
       },
       "Snowboard": {
@@ -20961,6 +20988,15 @@
           "distance": 2985.6,
           "elevation_gain": 86.0,
           "moving_time": 3051.0
+        },
+        "2026-06-19": {
+          "activity_ids": [
+            "18989954296"
+          ],
+          "count": 1,
+          "distance": 2853.1,
+          "elevation_gain": 29.0,
+          "moving_time": 3691.0
         }
       },
       "WeightTraining": {
@@ -21239,7 +21275,7 @@
       }
     }
   },
-  "generated_at": "2026-06-19T17:09:14.771683+00:00",
+  "generated_at": "2026-06-20T16:10:06.397179+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/88131214",
   "repo": "MattCost/git-sweaty",

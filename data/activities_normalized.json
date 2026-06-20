@@ -15819,5 +15819,31 @@
     "start_date_local": "2026-06-18T18:15:07Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-06-19",
+    "distance": 25207.3,
+    "elevation_gain": 137.0,
+    "id": "18986804201",
+    "moving_time": 3842.0,
+    "name": "Stupid windy lunchtime quicky",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-19T12:15:42Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-19",
+    "distance": 2853.1,
+    "elevation_gain": 29.0,
+    "id": "18989954296",
+    "moving_time": 3691.0,
+    "name": "Tifft",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-19T18:17:48Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
