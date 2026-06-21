@@ -15845,5 +15845,18 @@
     "start_date_local": "2026-06-19T18:17:48Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-06-20",
+    "distance": 24850.3,
+    "elevation_gain": 74.0,
+    "id": "19002825879",
+    "moving_time": 4117.0,
+    "name": "Charlaps",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-20T17:35:22Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
