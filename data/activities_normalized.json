@@ -15858,5 +15858,31 @@
     "start_date_local": "2026-06-20T17:35:22Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 64423.4,
+    "elevation_gain": 412.0,
+    "id": "19015911371",
+    "moving_time": 9825.0,
+    "name": "Caz creek criss cross",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-21T15:25:48Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-22",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19021723669",
+    "moving_time": 2194.0,
+    "name": "Back on the wagon",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-22T08:12:35Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]

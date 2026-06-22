@@ -10979,6 +10979,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19002825879",
       "year": 2026
+    },
+    {
+      "date": "2026-06-21",
+      "hour": 15,
+      "name": "Caz creek criss cross",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19015911371",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-22",
+      "hour": 8,
+      "name": "Back on the wagon",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/19021723669",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20458,6 +20476,15 @@
           "distance": 24850.3,
           "elevation_gain": 74.0,
           "moving_time": 4117.0
+        },
+        "2026-06-21": {
+          "activity_ids": [
+            "19015911371"
+          ],
+          "count": 1,
+          "distance": 64423.4,
+          "elevation_gain": 412.0,
+          "moving_time": 9825.0
         }
       },
       "Snowboard": {
@@ -21269,6 +21296,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 916.0
+        },
+        "2026-06-22": {
+          "activity_ids": [
+            "19021723669"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2194.0
         }
       },
       "Workout": {
@@ -21293,7 +21329,7 @@
       }
     }
   },
-  "generated_at": "2026-06-21T16:24:23.731289+00:00",
+  "generated_at": "2026-06-22T18:39:18.906466+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/88131214",
   "repo": "MattCost/git-sweaty",
