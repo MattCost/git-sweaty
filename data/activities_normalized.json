@@ -15884,5 +15884,31 @@
     "start_date_local": "2026-06-22T08:12:35Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-22",
+    "distance": 3993.3,
+    "elevation_gain": 23.0,
+    "id": "19028301119",
+    "moving_time": 4994.0,
+    "name": "Reinstein",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-22T17:20:31Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-23",
+    "distance": 27246.4,
+    "elevation_gain": 90.0,
+    "id": "19037906932",
+    "moving_time": 3749.0,
+    "name": "Threshold work",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-23T11:36:31Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
