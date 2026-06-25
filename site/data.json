@@ -11015,6 +11015,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19037906932",
       "year": 2026
+    },
+    {
+      "date": "2026-06-24",
+      "hour": 15,
+      "name": "Short ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19053871366",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-24",
+      "hour": 17,
+      "name": "Photos at the race",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/19055475681",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -19740,6 +19758,15 @@
           "distance": 3615.5,
           "elevation_gain": 44.7,
           "moving_time": 4952.0
+        },
+        "2026-06-24": {
+          "activity_ids": [
+            "19055475681"
+          ],
+          "count": 1,
+          "distance": 3730.9,
+          "elevation_gain": 81.0,
+          "moving_time": 5264.0
         }
       },
       "MountainBikeRide": {
@@ -20512,6 +20539,15 @@
           "distance": 27246.4,
           "elevation_gain": 90.0,
           "moving_time": 3749.0
+        },
+        "2026-06-24": {
+          "activity_ids": [
+            "19053871366"
+          ],
+          "count": 1,
+          "distance": 24182.5,
+          "elevation_gain": 106.0,
+          "moving_time": 3552.0
         }
       },
       "Snowboard": {
@@ -21365,7 +21401,7 @@
       }
     }
   },
-  "generated_at": "2026-06-24T16:58:08.558312+00:00",
+  "generated_at": "2026-06-25T17:02:47.196141+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/88131214",
   "repo": "MattCost/git-sweaty",

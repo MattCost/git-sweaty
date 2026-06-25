@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T16:58:08.539620+00:00",
+  "generated_at": "2026-06-25T17:02:47.178190+00:00",
   "years": {
     "2017": {
       "Ride": {
@@ -8723,6 +8723,15 @@
           "distance": 3615.5,
           "elevation_gain": 44.7,
           "moving_time": 4952.0
+        },
+        "2026-06-24": {
+          "activity_ids": [
+            "19055475681"
+          ],
+          "count": 1,
+          "distance": 3730.9,
+          "elevation_gain": 81.0,
+          "moving_time": 5264.0
         }
       },
       "MountainBikeRide": {
@@ -9495,6 +9504,15 @@
           "distance": 27246.4,
           "elevation_gain": 90.0,
           "moving_time": 3749.0
+        },
+        "2026-06-24": {
+          "activity_ids": [
+            "19053871366"
+          ],
+          "count": 1,
+          "distance": 24182.5,
+          "elevation_gain": 106.0,
+          "moving_time": 3552.0
         }
       },
       "Snowboard": {

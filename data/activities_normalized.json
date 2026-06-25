@@ -15910,5 +15910,31 @@
     "start_date_local": "2026-06-23T11:36:31Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-24",
+    "distance": 24182.5,
+    "elevation_gain": 106.0,
+    "id": "19053871366",
+    "moving_time": 3552.0,
+    "name": "Short ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-24T15:13:53Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-24",
+    "distance": 3730.9,
+    "elevation_gain": 81.0,
+    "id": "19055475681",
+    "moving_time": 5264.0,
+    "name": "Photos at the race",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-06-24T17:49:39Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
