@@ -15936,5 +15936,18 @@
     "start_date_local": "2026-06-24T17:49:39Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-06-25",
+    "distance": 36016.7,
+    "elevation_gain": 183.0,
+    "id": "19067157309",
+    "moving_time": 4630.0,
+    "name": "Threshold work and some spice",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-25T16:58:02Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
