@@ -15949,5 +15949,31 @@
     "start_date_local": "2026-06-25T16:58:02Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-26",
+    "distance": 11328.9,
+    "elevation_gain": 39.0,
+    "id": "19078331126",
+    "moving_time": 2058.0,
+    "name": "To the burrito \ud83c\udf2f\ud83c\udf2f\ud83c\udf2f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-26T17:36:43Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-26",
+    "distance": 11960.6,
+    "elevation_gain": 38.0,
+    "id": "19079235700",
+    "moving_time": 2219.0,
+    "name": "Belly full of burrito",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-26T19:26:08Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
