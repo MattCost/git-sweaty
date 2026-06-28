@@ -15975,5 +15975,31 @@
     "start_date_local": "2026-06-26T19:26:08Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-27",
+    "distance": 91168.4,
+    "elevation_gain": 936.0,
+    "id": "19089433938",
+    "moving_time": 14276.0,
+    "name": "I got 99 problems but Heat Acclimation ain't one",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-27T10:23:46Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 17832.3,
+    "elevation_gain": 67.0,
+    "id": "19100351413",
+    "moving_time": 3033.0,
+    "name": "Cafe ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-28T09:07:40Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

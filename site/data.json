@@ -11060,6 +11060,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19079235700",
       "year": 2026
+    },
+    {
+      "date": "2026-06-27",
+      "hour": 10,
+      "name": "I got 99 problems but Heat Acclimation ain't one",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19089433938",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-28",
+      "hour": 9,
+      "name": "Cafe ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19100351413",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20594,6 +20612,24 @@
           "distance": 23289.5,
           "elevation_gain": 77.0,
           "moving_time": 4277.0
+        },
+        "2026-06-27": {
+          "activity_ids": [
+            "19089433938"
+          ],
+          "count": 1,
+          "distance": 91168.4,
+          "elevation_gain": 936.0,
+          "moving_time": 14276.0
+        },
+        "2026-06-28": {
+          "activity_ids": [
+            "19100351413"
+          ],
+          "count": 1,
+          "distance": 17832.3,
+          "elevation_gain": 67.0,
+          "moving_time": 3033.0
         }
       },
       "Snowboard": {
@@ -21447,7 +21483,7 @@
       }
     }
   },
-  "generated_at": "2026-06-27T15:57:46.078919+00:00",
+  "generated_at": "2026-06-28T16:02:30.243276+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/88131214",
   "repo": "MattCost/git-sweaty",
