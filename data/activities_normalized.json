@@ -16001,5 +16001,31 @@
     "start_date_local": "2026-06-28T09:07:40Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 58969.7,
+    "elevation_gain": 197.0,
+    "id": "19102565590",
+    "moving_time": 8461.0,
+    "name": "Sunny summer Sunday afternoon",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-28T12:28:09Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-29",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19109491953",
+    "moving_time": 2078.0,
+    "name": "Clanging and banging",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-29T07:34:06Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
