@@ -16040,5 +16040,18 @@
     "start_date_local": "2026-06-29T19:11:52Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-06-30",
+    "distance": 36627.3,
+    "elevation_gain": 177.0,
+    "id": "19129564768",
+    "moving_time": 4809.0,
+    "name": "Hot creek breeze",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-30T16:10:43Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

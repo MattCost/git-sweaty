@@ -11105,6 +11105,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/19117252199",
       "year": 2026
+    },
+    {
+      "date": "2026-06-30",
+      "hour": 16,
+      "name": "Hot creek breeze",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19129564768",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20658,6 +20667,15 @@
           "distance": 76802.0,
           "elevation_gain": 264.0,
           "moving_time": 11494.0
+        },
+        "2026-06-30": {
+          "activity_ids": [
+            "19129564768"
+          ],
+          "count": 1,
+          "distance": 36627.3,
+          "elevation_gain": 177.0,
+          "moving_time": 4809.0
         }
       },
       "Snowboard": {
@@ -21529,7 +21547,7 @@
       }
     }
   },
-  "generated_at": "2026-06-30T16:59:33.124674+00:00",
+  "generated_at": "2026-07-01T17:04:05.958192+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/88131214",
   "repo": "MattCost/git-sweaty",
